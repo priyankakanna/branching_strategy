@@ -7,3 +7,4 @@ def factorial(n):
 
 print("Factorial of 5:", factorial(5))
 # Make changes to factorial.py
+# Test, fix bugs, and prepare for release
